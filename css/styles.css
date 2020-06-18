@@ -1,0 +1,185 @@
+body {
+  text-align: center;
+  align-items: center;
+  background-position: center;
+  margin: 0;
+  width: 100%;
+
+}
+
+li {
+  padding-left: 50px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+.navbar-brand {
+  padding-left: 50px;
+  font-size: 3rem;
+}
+
+.navbar-toggler {
+  padding-right: 50px;
+}
+
+.first-section {
+  background-color: #303960;
+}
+
+/* navbar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+nav-item {
+  padding: 0 18px;
+  width: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  text-align: center;
+  margin: auto;
+}
+
+/* image-section */
+/* my section */
+#title .container-fluid {
+  padding: 3% 15% 7%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.my {
+  width: 100%;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: white;
+  background-color: #303960;
+}
+
+.container-fluid {
+  padding: 1% 5%;
+}
+
+/* second-section */
+.feature-title {
+  font-size: 1.5rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.fas {
+  padding: 10px;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.second-section {
+  background-color: #ffcd3c;
+  padding: 3%;
+  position: relative;
+  width: 100%;
+}
+
+/* third-section */
+#skillset {
+  padding: 25px;
+  background-color: #303960;
+  position: relative;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.section-heading {
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+
+.skill-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.skill-column {
+  padding: 4% 0;
+  text-align: center;
+  align-items: center;
+}
+
+/* fourth-section */
+#testimonial-carousel {
+  background-color: #ffcd3c;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.fourth-section {
+  background-color: #ffcd3c;
+  padding: 10%;
+}
+
+.fourth-section-heading {
+  color: black;
+  text-align: center;
+  width: 100%;
+  padding-top: 2%;
+}
+
+.skills-box {
+  align-items: center;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.list-group-item {
+  text-align: center;
+}
+
+.skill-section {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.carousel-control-next {
+  padding: 3%;
+}
+
+/* fifth-section */
+.thank {
+  background-color: #303960;
+  text-align: center;
+  padding: 2%;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* final-section */
+.social-media {
+  align-items: center;
+  text-align: center;
+  background-color: #f3c623;
+  padding: 15px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.social-icon {
+  padding: 20px;
+}
