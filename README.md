@@ -3,4 +3,4 @@ Created my first ever "Know-me" business type of webpage in practice on few conc
 containers, fluid-container, div element in HTML 5 and CSS 3 to keep the things in flow.
 
 
-
+<img src = "https://github.com/Zubair-droid/Know-me/blob/master/-snaps/Capture.PNG" >
